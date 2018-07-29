@@ -1,5 +1,11 @@
 ![Fadecandy Title](https://raw.github.com/scanlime/fadecandy/master/doc/images/fc-title.png)
 
+```
+# Running fadecandy with config file:
+$ ./bin/fcserver-osx server/config.json
+```
+
+
 Fadecandy is a project that makes LED art easier, tastier, and more creative. We're all about creating tools that remove the technical drudgery from making LED art, freeing you to do more interesting, nuanced, and creative things. We think LEDs are more than just trendy display devices, we think of them as programmable light for interactive art.
 
 * [Video Introduction to Fadecandy](https://vimeo.com/79935649)
